@@ -1,8 +1,8 @@
 #listen addr
-addr: 127.0.0.1:23333
+addr: 127.0.0.1:9134
 #path of data
 data: ./db
 #path of dict
-dictonary: ./db
 
 #admin
+auth: root:1234
